@@ -28,7 +28,7 @@
 **Social**
 
 <!--[![](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram)](https://t.me/codev01)-->
-[![](https://img.shields.io/badge/VK-4680C2?style=flat-square&logo=vk&logoColor=ffffff)](https://vk.com/youtuber_yt)
+[![](https://img.shields.io/badge/VK-4680C2?style=flat-square&logo=vk&logoColor=ffffff)](https://vk.com/youtuber_play_yt)
 <!--[![](https://img.shields.io/badge/Mail.ru-codev01-005FF9?style=flat-square&logo=gmail&logoColor=005FF9)](mailto://codev01@mail.ru)-->
 
 ---

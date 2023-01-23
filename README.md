@@ -37,4 +37,4 @@
 
 Минимум - ![](https://img.shields.io/badge/Android-5.0.2%20-3bda8d?logo=android)
 
-Максимум - ![](https://img.shields.io/badge/Android-5.0.2%20-3bda8d?logo=android)
+Максимум - ![](https://img.shields.io/badge/Android-11%20-3bda8d?logo=android)
